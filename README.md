@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack EM DESENVOLVIMENTO`**
 
-Me chamo Joaquim Ochiulini Fernandes, tenho 17 anos e sou de São Paulo - SP. Atualmente, estou cursando o 3º ano do ensino médio na Escola Estadual José Talarico, com conclusão prevista para dezembro de 2026, onde também participo de um curso integrado de Desenvolvimento de Sistemas que abrange programação mobile, back-end, front-end, banco de dados e outras áreas fundamentais da tecnologia. Paralelamente, estou me aprofundando em um curso de Full Stack. Sou apaixonado por tecnologia e venho construindo minha base através de cursos em Python, JavaScript, banco de dados, POO e inteligência artificial. Busco minha primeira oportunidade na área de TI, com foco em Desenvolvimento Full Stack, Programação e Inteligência Artificial. Tenho perfil autodidata, analítico e focado em aprendizado contínuo e resolução de problemas.
+Me chamo Joaquim Ochiulini Fernandes, tenho 17 anos e sou de São Paulo - SP. Atualmente, estou cursando o 3º ano do ensino médio na Escola Estadual José Talarico, com conclusão prevista para dezembro de 2026, onde também participo de um curso integrado tecnico de Desenvolvimento de Sistemas que abrange programação mobile, back-end, front-end, banco de dados e outras áreas fundamentais da tecnologia. Paralelamente, estou me aprofundando em um curso de Full Stack. Sou apaixonado por tecnologia e venho construindo minha base através de cursos em Python, JavaScript, banco de dados, POO e inteligência artificial. Busco minha primeira oportunidade na área de TI, com foco em Desenvolvimento Full Stack, Programação e Inteligência Artificial. Tenho perfil autodidata, analítico e focado em aprendizado contínuo e resolução de problemas.
 
 
 ---
