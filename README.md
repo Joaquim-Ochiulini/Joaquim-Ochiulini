@@ -74,7 +74,7 @@ Me chamo Joaquim Ochiulini Fernandes, tenho 17 anos e sou de São Paulo - SP. At
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="src="https://github-readme-stats.vercel.app/api?username=Joaquim-Ochiulini&theme=tokyonight&show_icons=true"" 
+    src="https://github-readme-stats.vercel.app/api?username=Joaquim-Ochiulini&theme=tokyonight&show_icons=true" 
   />
 
 <img 
